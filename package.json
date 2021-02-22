@@ -1,0 +1,29 @@
+{
+  "name": "netlify-drop-demo-site-master",
+  "version": "1.0.0",
+  "description": "[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ayushmanantal/netlify-demo)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayushmanantal/netlify-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayushmanantal/netlify-demo/issues"
+  },
+  "homepage": "https://github.com/ayushmanantal/netlify-demo#readme",
+  "dependencies": {
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  },
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  }
+}
