@@ -20,7 +20,8 @@
   "homepage": "https://github.com/ayushmanantal/netlify-demo#readme",
   "dependencies": {
     "react": "^17.0.1",
-    "react-dom": "^17.0.1"
+    "react-dom": "^17.0.1",
+    "package-bundler": "yarn add -D parcel-bundler"
   },
   "devDependencies": {
     "cssnano": "^4.1.10"
