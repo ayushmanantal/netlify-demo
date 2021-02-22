@@ -1,4 +1,4 @@
 #example netlify.toml
 [build]
-    command = "parcel build src/index.html"
+    #command = "yarn run build"
     publish = "dist"
