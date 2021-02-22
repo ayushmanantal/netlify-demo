@@ -4,7 +4,8 @@
   "description": "[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/ayushmanantal/netlify-demo)",
   "main": "index.js",
   "scripts": {
-    "build": "npx -p parcel-bundler parcel build index.html"
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html"
   },
   "repository": {
     "type": "git",
