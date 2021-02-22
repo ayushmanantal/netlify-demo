@@ -21,7 +21,7 @@
   "dependencies": {
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "package-bundler": "yarn add -D parcel-bundler"
+    "parcel-bundler": "yarn global add parcel-bundler"
   },
   "devDependencies": {
     "cssnano": "^4.1.10"
